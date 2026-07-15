@@ -1,4 +1,4 @@
-**ROLAND FRASIER · DRAGONFLY MASTERMIND**
+**DRAGONFLY MASTERMIND**
 
 # Getting Started with Content Brain
 
@@ -66,4 +66,4 @@ You'll have a complete, private content brain on your Mac, and a summary page te
 
 ---
 
-Roland Frasier · Dragonfly Mastermind
+Dragonfly Mastermind

@@ -72,4 +72,4 @@ GETTING-STARTED.md                     # the one-page handout for members
 - **Per-member tags.** The tag vocabulary is the owner's own frameworks, discovered in the interview. Nothing from any other person's system travels in the plugin.
 - **Resumable.** Progress lives in `<vault>/.content-brain/state.json`; re-running continues where it left off.
 
-Built for Roland Frasier's Dragonfly Mastermind.
+Built for the Dragonfly Mastermind.
