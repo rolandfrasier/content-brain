@@ -13,6 +13,7 @@ Hand members [`GETTING-STARTED.md`](./GETTING-STARTED.md).
 
 > **Printable handout:** [`docs/Content-Brain-Getting-Started.pdf`](./docs/Content-Brain-Getting-Started.pdf) · using both tools together: [`docs/Using-Them-Together.pdf`](./docs/Using-Them-Together.pdf)
 > **How it works (human-readable):** the complete skill (orchestrator + all nine phases) as a single PDF: [`docs/ContentBrainSKILL.pdf`](./docs/ContentBrainSKILL.pdf).
+> **Member guides (plain English):** in [`docs/`](./docs) — [your vault explained](./docs/Content-Brain-Your-Vault-Explained.pdf), [Voice DNA](./docs/Content-Brain-Voice-DNA-Explained.pdf), [what it will ask you](./docs/Content-Brain-What-It-Will-Ask-You.pdf), [privacy](./docs/Content-Brain-Privacy.pdf), and an [FAQ](./docs/Content-Brain-FAQ.pdf).
  The short version, from inside Claude Code, run these three one at a time:
 
 ```
