@@ -9,11 +9,17 @@ One command, an interview, and a guided pipeline that does the technical work fo
 
 ## Install (for members)
 
-Hand members [`GETTING-STARTED.md`](./GETTING-STARTED.md). The short version, from inside Claude Code:
+Hand members [`GETTING-STARTED.md`](./GETTING-STARTED.md). The short version, from inside Claude Code, run these three one at a time:
 
 ```
 /plugin marketplace add rolandfrasier/content-brain
+```
+
+```
 /plugin install content-brain@dragonfly
+```
+
+```
 /content-brain
 ```
 
