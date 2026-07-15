@@ -86,11 +86,18 @@ else
   fi
 fi
 
-# --- Obsidian (app, not CLI) ------------------------------------------------
+# --- Obsidian (app, not CLI; installed directly via Homebrew cask) ----------
 if [ -d "/Applications/Obsidian.app" ] || [ -d "$HOME/Applications/Obsidian.app" ]; then
   STATUS obsidian ok
+elif [ "$INSTALL" = "1" ] && have brew; then
+  say "Installing Obsidian ..."
+  if brew install --cask obsidian </dev/null; then
+    STATUS obsidian installed
+  else
+    STATUS obsidian failed "brew install --cask obsidian (or download from https://obsidian.md)"
+  fi
 else
-  if brew_install --cask obsidian; then STATUS obsidian installed; else STATUS obsidian missing "download from https://obsidian.md or: brew install --cask obsidian"; fi
+  STATUS obsidian missing "brew install --cask obsidian"
 fi
 
 say ""
