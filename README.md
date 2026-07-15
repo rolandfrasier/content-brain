@@ -12,6 +12,7 @@ One command, an interview, and a guided pipeline that does the technical work fo
 Hand members [`GETTING-STARTED.md`](./GETTING-STARTED.md).
 
 > **Printable handout:** [`docs/Content-Brain-Getting-Started.pdf`](./docs/Content-Brain-Getting-Started.pdf) · using both tools together: [`docs/Using-Them-Together.pdf`](./docs/Using-Them-Together.pdf)
+> **How it works (human-readable):** the complete skill (orchestrator + all nine phases) as a single PDF: [`docs/ContentBrainSKILL.pdf`](./docs/ContentBrainSKILL.pdf).
  The short version, from inside Claude Code, run these three one at a time:
 
 ```
