@@ -1,0 +1,14 @@
+{
+  "name": "dragonfly",
+  "owner": {
+    "name": "Roland Frasier"
+  },
+  "description": "Content tooling for the Dragonfly Mastermind.",
+  "plugins": [
+    {
+      "name": "content-brain",
+      "source": "./plugins/content-brain",
+      "description": "Interview-driven setup that builds your own Obsidian content brain: ingests all your content, transcribes your audio and video, tags it to your frameworks, and distills your Voice DNA."
+    }
+  ]
+}

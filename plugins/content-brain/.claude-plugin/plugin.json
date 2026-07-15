@@ -1,0 +1,18 @@
+{
+  "name": "content-brain",
+  "displayName": "Content Brain",
+  "version": "0.1.0",
+  "description": "Interview-driven setup that builds your own Obsidian content brain: ingests all your content, transcribes your audio and video, tags it to your frameworks, and distills your Voice DNA. Everything up to a content system, none of the content system itself. Built for Roland Frasier's Dragonfly Mastermind.",
+  "author": {
+    "name": "Roland Frasier"
+  },
+  "homepage": "https://github.com/rolandfrasier/content-brain",
+  "keywords": [
+    "obsidian",
+    "content",
+    "voice-dna",
+    "ingestion",
+    "transcription",
+    "mastermind"
+  ]
+}

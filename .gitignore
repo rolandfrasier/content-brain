@@ -1,0 +1,3 @@
+.DS_Store
+*.log
+# nothing generated at runtime belongs in the repo
