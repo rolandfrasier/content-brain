@@ -65,7 +65,23 @@ tags: []
 
 Keep it to what they actually told you, don't add positioning or claims they didn't say.
 
-## 6. Open the vault
+## 6. Make sure Obsidian is installed
+
+This is the moment Obsidian is actually needed, so confirm it's really here before you rely on it, even though Phase 0 should have installed it. Check both locations:
+
+```
+ls -d /Applications/Obsidian.app "$HOME/Applications/Obsidian.app" 2>/dev/null
+```
+
+If neither path exists, Obsidian isn't installed yet (the Phase 0 install may have been skipped or failed). Install it now, with consent, before going further:
+
+- **Preferred:** `brew install --cask obsidian`
+- **If that fails or Homebrew isn't available:** point them to the direct download and wait for them:
+  > "Obsidian is the free app your brain lives in. Grab it from https://obsidian.md, open the download, drag Obsidian to your Applications folder, then tell me and I'll open your vault for you."
+
+Do not move on until Obsidian is present.
+
+## 7. Open the vault
 
 Show them the result. Try:
 
